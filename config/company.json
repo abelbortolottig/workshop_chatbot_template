@@ -1,16 +1,16 @@
 {
-  "company_name": "ChangeMe Company",
-  "bot_name": "ChangeMe Assistant",
-  "bot_goal": "Help users understand the company, solve common problems, and know when to contact a human.",
-  "target_users": "Customers, employees, or technicians",
-  "product_service": "Describe the product or service here",
-  "contact_email": "support@example.com",
-  "timezone": "Europe/Madrid",
-  "welcome_message": "Hi! I am your workshop chatbot. Ask me about the company, and try switching models and tools to compare token usage and speed.",
-  "escalation_text": "I recommend contacting a human from the company for this case.",
+  "company_name": "AbelCorp",
+  "bot_name": "Lupillo",
+  "bot_goal": "Ayudar a las personas a planear viajes en México",
+  "target_users": "Clientes finales",
+  "product_service": "Somos una empresa que ayuda a planear itinerarios de viajes en México, hechos a la medida",
+  "contact_email": "abelbortolotti@gmail.com",
+  "timezone": "Mazatlan",
+  "welcome_message": "Hola!, soy Lupillo y mi trabajo es ayudarte a planear tu viaje a México. Ask me about the company, and try switching models and tools to compare token usage and speed.",
+  "escalation_text": "Yo no se hacer eso, te pongo en contacto con un humano",
   "examples_of_good_questions": [
-    "What services does the company offer?",
-    "How much is 120 times 0.21?",
-    "How can you help me?"
+    "¿Qué servicios ofrecen?",
+    "¿Cuánto es 120 por 0.21?",
+    "¿Cómo puedes ayudarme?"
   ]
 }
